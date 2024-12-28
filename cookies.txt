@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+chatgpt.com	TRUE	/	FALSE	1999999999	__cflb	0H28vzvP5FJafnkHxih2iAbJaCA9xTBVi7UHouDkJ1s
+.chatgpt.com	TRUE	/	FALSE	1999999999	_cfuvid	XgbzmrTsrNhZtYpDx8nEkdUvSERLpMOMkfIuURqCpGw-1735407963120-0.0.1.1-604800000
+.oaistatic.com	TRUE	/	FALSE	1999999999	__cf_bm	wbJPkxhCZsbJLeDVmG4XolePExXonmh55VG0jtRA3qU-1735407964-1.0.1.1-NbGVzYBrH2mA9ptqlnbfgsn61brAv75th4cgVLdVMhDxbft7foc32R.LX2IOXca9AEDUDAwMjnLL15HSgLXoyQ
+.oaistatic.com	TRUE	/	FALSE	1999999999	_cfuvid	cBzsOmCSS4uw7Gs7xmQAu3PSw4a6NNccAY_HEIwJtSc-1735407964263-0.0.1.1-604800000
+cdn.oaistatic.com	TRUE	/	FALSE	1999999999	SameSite	None
+.chatgpt.com	TRUE	/	FALSE	1999999999	__cf_bm	O7kdgPfvgzyvhBdzmpUR2Kru2I6Kr_QH.re9Ay2.FEY-1735407993-1.0.1.1-HvwujZgF9bJBHMKr3LOTFXe9JqfBvpazn4vfuVhGG12z0iDigSolmg04sJ7SQXoJiYEOD6CXemEt759_yj2lXg
+chatgpt.com	TRUE	/	FALSE	1999999999	SameSite	None
+
